@@ -407,7 +407,7 @@
       "idf": "",
       "netlist": "02_Batt_Alim.net",
       "specctra_dsn": "",
-      "step": "",
+      "step": "02_Batt_Alim.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
