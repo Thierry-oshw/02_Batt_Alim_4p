@@ -46,4 +46,4 @@ Ce circuit a été testé de fond en comble sur de nombreux projets
 - Yohann Belair ([R&D Freelance](https://github.com/ciborg971))
 
 ## Licence
-[CERN Open Hardware Licence Version 2](https://github.com/Thierry-oshw/17_CAN_Controller/blob/main/LICENSE.txt)
+[CERN Open Hardware Licence Version 2](https://github.com/Thierry-oshw/02_Batt_Alim_4p/blob/main/LICENSE.txt)
